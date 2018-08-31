@@ -6,15 +6,15 @@
   "env": {
     "LINE_CHANNEL_ID" : {
       "description": "LINE_CHANNEL_ID",
-      "value": "YOUR_LINE_CHANNEL_ID"
+      "value": "1572722659"
     },
     "LINE_CHANNEL_SECRET" : {
       "description": "LINE_CHANNEL_SECRET",
-      "value": "YOUR_LINE_CHANNEL_SECRET"
+      "value": "cd127f39fc0867d73d080eb000a8ab52"
     },
     "LINE_CHANNEL_ACCESS_TOKEN" : {
       "description": "LINE_CHANNEL_ACCESS_TOKEN",
-      "value": "YOUR_LINE_CHANNEL_ACCESS_TOKEN"
+      "value": "d4h8ZYL+bUlA5YBEoo3qEJGPQLKlgYAqKTLJMzBwNQ7Sqb5wy9RZlH7qTWzBQ9tPIn10/FBzg9Z/X2e5xF2/i7vvXXrzPNYxCxk7b5ZfsUjU8UX3DeLPWxhfiFiZhVXmzStNxCdiiiqyXjktPOdDtQdB04t89/1O/w1cDnyilFU="
     }
   }
 }
